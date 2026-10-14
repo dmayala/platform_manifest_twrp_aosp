@@ -41,7 +41,7 @@
     <!-- TWRP lives in TeamWin repo -->
     <!-- Hisense A9 (HLTE556N) recovery fork, branch eink-ux: E Ink button
          full refresh and power-off still image on top of android-12.1. -->
-    <project path="bootable/recovery" name="dmayala/android_bootable_recovery" remote="github" revision="eink-ux"/>
+    <project path="bootable/recovery" name="dmayala/android_bootable_recovery" remote="github" revision="ink-theme"/>
 
     <!-- Use TeamWin repos for full recovery compatibility -->
     <project path="build/make" name="android_build" remote="TeamWin" revision="android-12.1" groups="pdk">
